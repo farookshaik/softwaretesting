@@ -1,0 +1,11 @@
+Types of Performance Testing
+   - Load Testing
+       - To Determine application capactiy which mean application response time. EX : Ecommerce site like Amazon etc.
+   - Stress Testing/Break Point Testing
+       - Testing limitations of applications. Formally says that, the application access with unlimited number of users so the number of users are equal to where application is not at all responding or application SLA has been reached.
+   - Spike Testing
+      - To Increasing load suddenly.
+   - Volume Testing
+      - When data size increased. Ex : DB
+   - Failover Testing
+     - Data Centres.
