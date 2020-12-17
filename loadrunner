@@ -1,4 +1,5 @@
 Types of Performance Testing
+----------------------------
    - Load Testing
        - To Determine application capactiy which mean application response time. EX : Ecommerce site like Amazon etc.
    - Stress Testing/Break Point Testing
@@ -9,3 +10,14 @@ Types of Performance Testing
       - When data size increased. Ex : DB
    - Failover Testing
      - Data Centres.
+
+Performance Testing Terminology
+------------------------------
+1. Throughput - Number of bytes/Transactions done is per unit time.
+2. Response time - Time Taken to load the page.
+3. Think time - Time taken by user when switching between pages.
+4. Peak Load - Period of time, maximum user visited.
+5. Average Load - Period of time, usually user visited.
+6. BreakPoint -  Application is breaking.
+7. Stability - Application is available all the time without issue
+8. Scalability - Just increasing the capacity of systems.
